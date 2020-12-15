@@ -1,0 +1,9 @@
+info
+dpksngh98
+CVS
+root
+Admin
+x
+lang
+y
+default
